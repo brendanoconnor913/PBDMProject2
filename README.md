@@ -1,4 +1,4 @@
-# PBDMProject2 Unique words & Top tweet times
+# Unique words & Top tweet times
 
 The purpose of these two map reduce programs are to determine the unique/duplicate words used in the data set of tweets and determine
 the time periods when people are most commonly tweeting. The first part corresponds to the map.py and reduce.py and the other two files
